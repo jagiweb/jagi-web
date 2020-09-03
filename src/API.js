@@ -1,6 +1,6 @@
 // Links
 
-const main = "localhost:8000"
+const main = "http://localhost:4000/graphql"
 
 // GET
 
