@@ -1,5 +1,7 @@
 // Links
 
+const main = "localhost:8000"
+
 // GET
 
 // POST
